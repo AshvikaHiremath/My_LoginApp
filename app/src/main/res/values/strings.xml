@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyLoginApp</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="welcome_message">Welcome,%1$s!
+    </string>
+
+    <string
+        name="username_required">Please enter a username</string>
+    <string name="welcome">welcome</string>
+</resources>
